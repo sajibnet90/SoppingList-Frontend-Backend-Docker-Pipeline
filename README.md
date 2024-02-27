@@ -27,7 +27,7 @@ This project consists of a backend Express server and a frontend React UI.
 
 ### Instructions for Running project Locally
 
-1. Clone the repository: `git clone https://github.com/se-5G00DM04/2023---final-project-team-friday.git`
+1. Clone the repository: `https://github.com/sajibnet90/SoppingList-Frontend-Backend-Docker-Pipeline.git`
 2. Navigate to the backend folder: `cd backend`
 3. Install backend dependencies: `npm install`
 4. Run the backend server: `npm run dev`
